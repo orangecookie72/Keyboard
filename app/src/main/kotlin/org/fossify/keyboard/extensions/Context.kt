@@ -66,6 +66,7 @@ import org.fossify.keyboard.helpers.LANGUAGE_GREEK
 import org.fossify.keyboard.helpers.LANGUAGE_HEBREW
 import org.fossify.keyboard.helpers.LANGUAGE_ITALIAN
 import org.fossify.keyboard.helpers.LANGUAGE_KABYLE_AZERTY
+import org.fossify.keyboard.helpers.LANGUAGE_KAZAKH
 import org.fossify.keyboard.helpers.LANGUAGE_LATVIAN
 import org.fossify.keyboard.helpers.LANGUAGE_LITHUANIAN
 import org.fossify.keyboard.helpers.LANGUAGE_NORWEGIAN
